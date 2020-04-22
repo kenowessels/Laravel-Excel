@@ -3,7 +3,6 @@
 namespace Maatwebsite\Excel\Tests\Concerns;
 
 use Maatwebsite\Excel\Concerns\Importable;
-use Maatwebsite\Excel\Concerns\RemembersChunkOffset;
 use Maatwebsite\Excel\Concerns\RemembersRowNumber;
 use Maatwebsite\Excel\Concerns\ToModel;
 use Maatwebsite\Excel\Concerns\WithChunkReading;
